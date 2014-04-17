@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 17 15:27:46 SGT 2014
+pushSDK-3.2.0-armeabi.so>=
+pushSDK-3.2.0-x86.so>=
+pushSDK-3.2.0-mips.so>=
+pushSDK-3.2.0.jar>=
+pushSDK-3.2.0.pom>=

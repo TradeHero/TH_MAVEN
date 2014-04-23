@@ -1,22 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd ">
-    <modelVersion>4.0.0</modelVersion>
-    <groupId>com.wechat</groupId>
-    <artifactId>wechatlib</artifactId>
-    <version>1.0</version>
-    <packaging>jar</packaging>
-    <name>WeChat</name>
-    <url>http://www.wechat.com</url>
-    <description>Provide connection to WeChat</description>
-    
-  <properties>
-    <java.version>1.6</java.version>
-    <java.target-version>1.6</java.target-version>
-    <android.platform>14</android.platform>
-    <android.version>4.0.1.2</android.version>
-    <android-support.version>r7</android-support.version>
-  </properties>
-
-
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.wechat</groupId>
+  <artifactId>wechatlib</artifactId>
+  <version>1.0</version>
+  <description>POM was created from install:install-file</description>
 </project>

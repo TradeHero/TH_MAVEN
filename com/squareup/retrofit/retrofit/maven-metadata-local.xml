@@ -4,7 +4,7 @@
   <artifactId>retrofit</artifactId>
   <versioning>
     <versions>
-      <version>1.5.1-SNAPSHOT</version>
+      <version>1.5.1-TradeHero</version>
     </versions>
     <lastUpdated>20140506023921</lastUpdated>
   </versioning>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.thoj.route</groupId>
+  <artifactId>route-parent</artifactId>
+  <versioning>
+    <versions>
+      <version>0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140618074131</lastUpdated>
+  </versioning>
+</metadata>

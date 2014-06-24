@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<metadata modelVersion="1.1.0">
   <groupId>com.facebook</groupId>
   <artifactId>facebook-android-sdk</artifactId>
+  <version>3.5.2-SNAPSHOT</version>
   <versioning>
-    <versions>
-      <version>3.5.2-SNAPSHOT</version>
-    </versions>
-    <lastUpdated>20131209040439</lastUpdated>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20140624032638</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>apklib</extension>
+        <value>3.5.2-SNAPSHOT</value>
+        <updated>20140624032638</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>3.5.2-SNAPSHOT</value>
+        <updated>20140624032638</updated>
+      </snapshotVersion>
+    </snapshotVersions>
   </versioning>
 </metadata>

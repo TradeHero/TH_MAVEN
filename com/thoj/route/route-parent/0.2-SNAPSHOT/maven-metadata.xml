@@ -2,17 +2,17 @@
 <metadata modelVersion="1.1.0">
   <groupId>com.thoj.route</groupId>
   <artifactId>route-parent</artifactId>
-  <version>0.1-SNAPSHOT</version>
+  <version>0.2-SNAPSHOT</version>
   <versioning>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
-    <lastUpdated>20140620075649</lastUpdated>
+    <lastUpdated>20140702081927</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.1-SNAPSHOT</value>
-        <updated>20140620075649</updated>
+        <value>0.2-SNAPSHOT</value>
+        <updated>20140702081927</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

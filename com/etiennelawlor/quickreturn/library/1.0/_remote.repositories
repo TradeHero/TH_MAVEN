@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Sep 05 13:16:28 SGT 2014
+library-1.0.apklib>=
+library-1.0.jar>=
+library-1.0.pom>=

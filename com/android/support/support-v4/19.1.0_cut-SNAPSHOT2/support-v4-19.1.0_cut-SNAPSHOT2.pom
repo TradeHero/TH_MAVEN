@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>com.android.support</groupId>
+  <artifactId>support-v4</artifactId>
+  <version>19.1.0_cut-SNAPSHOT2</version>
+
+  <repositories>
+    <repository>
+      <id>TH_MAVEN</id>
+      <name>TradeHero Maven</name>
+      <url>https://github.com/TradeHero/TH_MAVEN/raw/master</url>
+    </repository>
+  </repositories>
+
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.codehaus.mojo</groupId>
+        <artifactId>build-helper-maven-plugin</artifactId>
+        <version>1.7</version>
+        <executions>
+          <execution>
+            <id>add-source</id>
+            <phase>process-sources</phase>
+            <goals>
+              <goal>add-source</goal>
+            </goals>
+            <configuration>
+              <sources>
+                <source>src/eclair</source>
+                <source>src/eclair-mr1</source>
+                <source>src/froyo</source>
+                <source>src/gingerbread</source>
+                <source>src/honeycomb</source>
+                <source>src/honeycomb_mr2</source>
+                <source>src/ics</source>
+                <source>src/ics-mr1</source>
+                <source>src/java</source>
+                <source>src/jellybean</source>
+                <source>src/jellybean-mr1</source>
+                <source>src/jellybean-mr2</source>
+                <source>src/kitkat</source>
+              </sources>
+            </configuration>
+          </execution>
+        </executions>
+      </plugin>
+    </plugins>
+  </build>
+
+  <dependencies>
+    <dependency>
+      <groupId>com.google.android</groupId>
+      <artifactId>android</artifactId>
+      <version>4.4.4_r1</version>
+      <scope>provided</scope>
+    </dependency>
+  </dependencies>
+
+</project>

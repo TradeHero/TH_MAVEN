@@ -5,9 +5,11 @@
   <versioning>
     <release>3.22.0-TH</release>
     <release>3.22.0</release>
+    <release>3.22.0-provided</release>
     <versions>
       <version>3.22.0-TH</version>
       <version>3.22.0</version>
+      <version>3.22.0-provided</version>
     </versions>
     <lastUpdated>20150123021753</lastUpdated>
   </versioning>

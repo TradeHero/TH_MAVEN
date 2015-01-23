@@ -3,9 +3,9 @@
   <groupId>com.facebook.android</groupId>
   <artifactId>library</artifactId>
   <versioning>
-    <release>3.22.0</release>
+    <release>3.22.0-TH</release>
     <versions>
-      <version>3.22.0</version>
+      <version>3.22.0-TH</version>
     </versions>
     <lastUpdated>20150122104048</lastUpdated>
   </versioning>

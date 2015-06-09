@@ -4,9 +4,11 @@
   <artifactId>library</artifactId>
   <versioning>
     <release>1.0</release>
+    <release>1.0.1-aar</release>
     <versions>
       <version>1.0</version>
+      <version>1.0.1-aar</version>
     </versions>
-    <lastUpdated>20140905051628</lastUpdated>
+    <lastUpdated>20150609070913</lastUpdated>
   </versioning>
 </metadata>

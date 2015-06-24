@@ -5,10 +5,12 @@
   <versioning>
     <release>1.0</release>
     <release>1.0.1-aar</release>
+    <release>1.0.2-aar</release>
     <versions>
       <version>1.0</version>
       <version>1.0.1-aar</version>
+      <version>1.0.2-aar</version>
     </versions>
-    <lastUpdated>20150609070913</lastUpdated>
+    <lastUpdated>20150624040025</lastUpdated>
   </versioning>
 </metadata>

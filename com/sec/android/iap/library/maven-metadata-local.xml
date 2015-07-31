@@ -3,10 +3,11 @@
   <groupId>com.sec.android.iap</groupId>
   <artifactId>library</artifactId>
   <versioning>
-    <release>2.0</release>
+    <release>3.0</release>
     <versions>
       <version>2.0</version>
+      <version>3.0</version>
     </versions>
-    <lastUpdated>20150127032930</lastUpdated>
+    <lastUpdated>20150731073626</lastUpdated>
   </versioning>
 </metadata>
